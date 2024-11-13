@@ -5,7 +5,7 @@ import profile_image from './profile_image.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 
-export const url = 'https://test-site-backend-gj2b.onrender.com'
+export const url = 'https://test-site-backend-la6r.onrender.com'
 export const currency = 'R'
 
 export const assets ={
